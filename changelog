@@ -1,0 +1,54 @@
+zorin-sound-theme (3.2) focal; urgency=medium
+
+  * Added system-ready sound
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 02 Apr 2021 14:21:02 +0100
+
+zorin-sound-theme (3.1) focal; urgency=medium
+
+  * Changed desktop-login sound to one created by Ivica Ico Bukvic
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 15 Nov 2020 18:50:25 +0000
+
+zorin-sound-theme (3.0) bionic; urgency=medium
+
+  * New sound theme based on Yaru and Borealis, with the login sound by
+    Sam Hulick and trash empty sound by Dr. Richard Boulanger et al
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 06 Jan 2019 13:44:42 +0000
+
+zorin-sound-theme (2.1) bionic; urgency=medium
+
+  * New audio-volume-changed sound
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 08 Sep 2018 15:31:25 +0100
+
+zorin-sound-theme (2.0.1) xenial; urgency=medium
+
+  * Added volume change sound and updated copyright notices
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 04 Nov 2016 14:11:37 +0000
+
+zorin-sound-theme (2.0) xenial; urgency=medium
+
+  * New sound theme based on Borealis and freedesktop sounds
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 03 Nov 2016 02:20:05 +0000
+
+zorin-sound-theme (1.0.1) xenial; urgency=medium
+
+  * Ready for public use in Zorin OS 12
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 18 Sep 2016 20:44:14 +0100
+
+zorin-sound-theme (1.0) xenial; urgency=medium
+
+  * Initial stable release
+
+ -- Zorin OS <os@zoringroup.com>  Sat, 03 Sep 2016 14:25:47 +0100
+
+zorin-sound-theme (0.9) xenial; urgency=low
+
+  * Pre-release
+
+ -- Zorin OS <os@zoringroup.com>  Fri, 02 Sep 2016 10:36:00 -0400
